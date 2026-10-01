@@ -1,189 +1,130 @@
-# Anushree R
+# Hi, I'm Anushree R 👋
 
 **AIML Engineering Student | Software Developer | AI & Full-Stack Development**
+📍 Bengaluru, Karnataka, India
 
-Bengaluru, Karnataka, India
-
-I am an Artificial Intelligence and Machine Learning engineering student interested in software engineering, intelligent systems, and scalable application development. I enjoy solving technical problems and building practical solutions using modern technologies, machine learning, and full-stack development.
-
-Currently focused on strengthening my problem-solving skills, developing real-world applications, and exploring Generative AI and agentic systems.
+I'm an Artificial Intelligence and Machine Learning engineering student interested in software engineering, intelligent systems, and scalable application development. I enjoy solving technical problems and building practical solutions with machine learning and full-stack technologies. Right now I'm sharpening my problem-solving skills, building real-world applications, and exploring Generative AI and agentic systems.
 
 ---
 
-## PROFESSIONAL PROFILE
+## 🎓 Profile
 
-- **Education:** B.E. in Artificial Intelligence and Machine Learning
-- **Institution:** Nitte Meenakshi Institute of Technology
-- **Graduation:** 2028
-- **Location:** Bengaluru, India
+- **Education:** B.E. in Artificial Intelligence and Machine Learning, Nitte Meenakshi Institute of Technology (graduating 2028)
 - **Interests:** Software Engineering, AI/ML, Full-Stack Development, Generative AI
-- **Current Focus:** Data Structures & Algorithms, backend engineering, and AI-powered applications
+- **Current focus:** Data Structures & Algorithms, backend engineering, AI-powered applications
 
 ---
 
-## TECHNICAL SKILLS
+## 🛠️ Tech Stack
 
-### Programming Languages
+**Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" alt="Python, Java, C, JavaScript, TypeScript" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts" alt="Python, Java, C, JavaScript, TypeScript" />
 
-### Frontend Development
+**Frontend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="HTML, CSS, React, Tailwind CSS, Vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="HTML, CSS, React, Tailwind CSS, Vite" />
 
-### Backend Development
+**Backend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php" alt="Node.js, Express, FastAPI, PHP" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php" alt="Node.js, Express, FastAPI, PHP" />
 
-### AI / ML & Data Science
+**AI / ML & Data Science**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda" alt="TensorFlow, PyTorch, Anaconda" />
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch" />
 
-**Additional:** Scikit-learn · Pandas · NumPy · Generative AI · Machine Learning
+Scikit-learn · Pandas · NumPy · Generative AI
 
-### Databases
+**Databases**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB" />
 
-### Tools & Platforms
+**Tools & Platforms**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,arduino" alt="Git, GitHub, VS Code, Docker, Linux, Arduino" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,arduino" alt="Git, GitHub, VS Code, Docker, Linux, Arduino" />
 
-**Additional:** Jupyter Notebook · Google Colab · Databricks
+Jupyter Notebook · Google Colab · Databricks
 
 ---
 
-## FEATURED PROJECTS
+## 🚀 Featured Projects
 
-### 01. CampusMind — Smart Campus Assistant
+### CampusMind: Smart Campus Assistant
+`Python` `FastAPI` `Databricks` `SQL`
 
-**Technologies:** Python · FastAPI · Databricks · SQL
+An assistant that answers campus-related questions using structured institutional data.
+- Backend service for campus information retrieval
+- Databricks SQL Warehouse integration for data access
+- Exploring AI-powered question answering
 
-An intelligent campus assistant designed to answer campus-related questions using structured institutional information.
+🔗 [View project](https://github.com/Anushreer22/REPO-NAME)
 
-- Developing a backend service for campus information retrieval.
-- Integrating Databricks SQL Warehouse for data access.
-- Exploring AI-powered question answering for campus use cases.
+### Merchant Agent OS
+`React` `TypeScript` `Tailwind CSS` `FastAPI`
 
-**Repository:** [View Project](https://github.com/Anushreer22)
+A multi-role application supporting buyer, merchant, and admin workflows.
+- Role-based access and authentication
+- Modern React + TypeScript frontend
+- FastAPI backend services
 
-### 02. Merchant Agent OS
+🔗 [View project](https://github.com/Anushreer22/REPO-NAME)
 
-**Technologies:** React · TypeScript · Tailwind CSS · FastAPI
+### Amazon ML Challenge: Entity Resolution
+`Python` `Machine Learning` `Data Processing`
 
-A multi-role application designed to support buyer, merchant, and administrator workflows.
+A machine learning pipeline that identifies matching business records across large datasets.
+- Candidate generation and feature engineering on large structured data
+- Classification models to detect likely entity matches
 
-- Implementing role-based access and authentication.
-- Developing a modern frontend using React and TypeScript.
-- Structuring backend services using FastAPI.
+🔗 [View project](https://github.com/Anushreer22/REPO-NAME)
 
-**Repository:** [View Project](https://github.com/Anushreer22)
+### Smart Waste Management
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-### 03. Amazon ML Challenge — Entity Resolution
+A web app for organizing waste management information and streamlining related workflows.
+- Interactive web interface
+- PHP server-side logic with a MySQL database
 
-**Technologies:** Python · Machine Learning · Data Processing
+🔗 [View project](https://github.com/Anushreer22/REPO-NAME)
 
-A machine learning pipeline for identifying matching business records across large datasets.
+### Smart Street Light System
+`Arduino` `PIR Sensor` `LDR`
 
-- Working with large-scale structured datasets.
-- Applying candidate generation and feature engineering.
-- Using classification models to identify potential entity matches.
+An embedded systems project that automates street lighting based on ambient light and motion.
+- LDR detects ambient light levels
+- PIR sensor detects motion
+- Arduino controls the lighting behavior
 
-**Repository:** [View Project](https://github.com/Anushreer22)
-
-### 04. Smart Waste Management
-
-**Technologies:** HTML · CSS · JavaScript · PHP · MySQL
-
-A web-based application focused on organizing waste management information and supporting more efficient waste-related workflows.
-
-- Developing an interactive web interface.
-- Using PHP for server-side functionality.
-- Managing application data through a database.
-
-**Repository:** [View Project](https://github.com/Anushreer22)
-
-### 05. Smart Street Light System
-
-**Technologies:** Arduino · PIR Sensor · LDR
-
-An embedded systems project designed to automate street lighting based on environmental light and motion detection.
-
-- Using an LDR to detect ambient light conditions.
-- Using a PIR sensor to detect motion.
-- Automating lighting behavior using Arduino.
-
-**Repository:** [View Project](https://github.com/Anushreer22)
+🔗 [View project](https://github.com/Anushreer22/REPO-NAME)
 
 ---
 
-## AREAS OF INTEREST
+## 🔭 Currently
 
-- Software Engineering & Application Development
-- Artificial Intelligence & Machine Learning
-- Generative AI & Agentic AI
-- Backend Development & API Design
-- Database Management & System Design
-- Data Structures & Algorithms
-- Open-Source Contributions
+- Strengthening Data Structures & Algorithms for software engineering interviews
+- Building full-stack applications with modern frontend and backend technologies
+- Exploring Generative AI, LLMs, and agentic application development
+- Developing practical machine learning projects
+- Participating in hackathons and contributing to open source
 
 ---
 
-## GITHUB STATISTICS
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushreer22&show_icons=true&hide_border=true&theme=default" alt="Anushree's GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreer22&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anushreer22&hide_border=true&theme=default" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushreer22&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreer22&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
 
-## CURRENT FOCUS
+## 📫 Connect with me
 
-- Strengthening Data Structures & Algorithms for software engineering interviews.
-- Building full-stack applications with modern frontend and backend technologies.
-- Exploring Generative AI, LLMs, and agentic application development.
-- Developing practical machine learning projects.
-- Participating in hackathons and contributing to open-source projects.
+<a href="https://github.com/Anushreer22"><img src="https://img.shields.io/badge/GitHub-Anushreer22-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/anushree-r-a05467374"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 
----
-
-## CONNECT WITH ME
-
-<p align="left">
-  <a href="https://github.com/Anushreer22">
-    <img src="https://img.shields.io/badge/GitHub-Anushreer22-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
-- **Email:** anushreer695@gmail.com
-- **LinkedIn:** Add your profile URL
-- **Portfolio:** Coming soon
+📧 your.email@example.com
 
 ---
 
-<p align="center">
-  <i>Interested in building intelligent, scalable, and impactful software solutions.</i>
-</p>
+<p align="center"><i>Building intelligent, scalable, and impactful software.</i></p>
