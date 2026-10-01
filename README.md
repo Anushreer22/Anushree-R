@@ -123,7 +123,7 @@ An embedded systems project that automates street lighting based on ambient ligh
 <a href="https://github.com/Anushreer22"><img src="https://img.shields.io/badge/GitHub-Anushreer22-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/anushree-r-a05467374"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 
-📧 your.email@example.com
+📧 anushreer695@gmail.com
 
 ---
 
